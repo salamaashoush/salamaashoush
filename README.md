@@ -1,12 +1,10 @@
-<div style="display: flex;gap: 10px;align-items: center;">
-  <a href="https://github.com/salamaashoush">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=salamaashoush&show_icons=true&count_private=true&theme=tokyonight" />
-  </a>
-  
-  <a href="https://github.com/salamaashoush"> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salamaashoush&cache_seconds=1800&layout=compact&theme=tokyonight&hide=css,gherkin,html" />
-  </a>
-</div>
+<a href="https://github.com/salamaashoush">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=salamaashoush&show_icons=true&count_private=true&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/salamaashoush"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salamaashoush&cache_seconds=1800&layout=compact&theme=tokyonight&hide=css,gherkin,html" />
+</a>
 
 <!--
 **salamaashoush/salamaashoush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
