@@ -66,21 +66,3 @@ Most of what I build follows the same pattern: take a piece of JavaScript toolin
   <img alt="Nix" src="https://img.shields.io/badge/Nix-1a1b27?style=flat-square&logo=nixos" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-1a1b27?style=flat-square&logo=docker" />
 </p>
-
-### Stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salamaashoush&theme=tokyonight" />
-    <img alt="Profile summary for salamaashoush" width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salamaashoush&theme=default" />
-  </picture>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salamaashoush&theme=tokyonight" />
-    <img alt="Most committed languages" width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salamaashoush&theme=default" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=salamaashoush&theme=tokyonight&utcOffset=2" />
-    <img alt="Commits by time of day" width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=salamaashoush&theme=default&utcOffset=2" />
-  </picture>
-</div>
